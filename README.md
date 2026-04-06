@@ -3,10 +3,12 @@ Analyze the data collected via a survey on Amazon Mechanical Turk to find out dr
 
 The respository contains the following files:
 
-1. jupyter notebook - prompt.ipynb,
-2. image files (.png) under the /images folder  - These are the files used in prompt.ipynb in the markup section
-3. origina data file - coupons.csv
-4. cleaned version of the original datafile - cleaned_coupons.csv. This is the data file that will used for analyzing coupon acceptance by different kids of drivers.
+1. jupyter notebook - prompt.ipynb (https://github.com/mutnuri/Coupon-Acceptance-By-Customers/blob/main/README.md?plain=1)
+2. origina data file - coupons.csv (https://github.com/mutnuri/Coupon-Acceptance-By-Customers/edit/main/README.md#:~:text=coupons.csv)
+3. cleaned version of the original datafile - cleaned_coupons.csv. This is the data file that will used for analyzing coupon acceptance by different kids of drivers.
+   (https://github.com/mutnuri/Coupon-Acceptance-By-Customers/edit/main/README.md#:~:text=cleaned_coupons.csv)
+4. image files (.png) under the /images folder  - These are the files used in prompt.ipynb in the markup section
+   
 
 The data is analyzed for of two coupons types (1) Bar and (2) Coffee House. the below are the findings
 
